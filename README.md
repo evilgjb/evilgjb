@@ -55,4 +55,5 @@ Good fits include:
 
 For professional inquiries, please reach out via LinkedIn or email.
 https://linkedin.com/in/glenjbarber
+
 Email is the same as the LinkedIn suffix at Gmail.
