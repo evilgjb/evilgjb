@@ -1,4 +1,4 @@
-## Hi there 👋
+## Former FreeBSD Release Engineering Lead. Focus areas: OS release automation, build/release infrastructure, packaging, CI, reproducible release processes, FreeBSD, Unix systems, and operational reliability.
 
 <!--
 **evilgjb/evilgjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
